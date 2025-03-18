@@ -1,4 +1,4 @@
-%% LLE time evolution
+% LLE time evolution
 % ----------------------------+
 % Raonaqul Islam, UMBC        |
 % Date started: March 2, 2025 |
